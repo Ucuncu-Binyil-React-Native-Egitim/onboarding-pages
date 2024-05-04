@@ -2,7 +2,7 @@
 // butonlara basıldığında bir sonraki ve bir önceki ekrana gidebilmeli
 // ilk ekrandaysa geri gitme butonu, son ekrandaysa ileri gitme butonu
 // disable olmalıdır.
-// ekran görüntüsündeki ekranı oluşturmaya çalışın
+// ekran görüntüsündeki ekranı oluşturmaya çalışın.
 
 import {
   View,
