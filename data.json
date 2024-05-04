@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "questionTitle": "SKIN TYPE",
+    "question": "What is type of your skin?",
+    "answers": ["Oily", "Dry", "Normal"]
+  },
+  {
+    "id": "2",
+    "questionTitle": "AGE",
+    "question": "What is your age?",
+    "answers": ["14-18", "18-25", "25-35", "35+"]
+  }
+]
