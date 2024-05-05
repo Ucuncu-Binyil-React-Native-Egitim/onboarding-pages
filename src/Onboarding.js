@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import {
   View,
   Text,
@@ -174,7 +174,6 @@ const styles = StyleSheet.create({
     flex: 1,
     paddingBottom: 60,
     width: width,
-    borderWidth: 1,
     justifyContent: 'space-between',
   },
   renderItemInnerContainer: {
